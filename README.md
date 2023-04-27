@@ -10,10 +10,10 @@ Application for keeping track of tasks with progress bar to indicate percentage 
 <p>- &nbsp; Deployed using Render </p>
 
 <h3> Usage Instructions and Screenshots </h3>
-<p> To be able to use the app, sign in or sign up using the input fields. </p>
+<p> 1. To be able to use the app, sign in or sign up using the input fields. </p>
 ![image](https://user-images.githubusercontent.com/123704929/234746098-ece922cf-0ee7-4a43-9570-15bde89b8789.png)
+<p> 2. Once logged in, add a task by clicking the add new button on the top right </p>
 
-![image](https://user-images.githubusercontent.com/123704929/234745977-16aa30cb-e277-40ea-8862-3364e5d59070.png)
 
 
 
