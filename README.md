@@ -6,7 +6,7 @@ https://todo-app-md5o.onrender.com/
 Application for keeping track of tasks with progress bar to indicate percentage completed.
 
 <h3> Technologies Used:</h3>
-- &nbsp; React, JavaScript, PostgreSQL, and Express
-- &nbsp; Deployed using Render
+<p>- &nbsp; React, JavaScript, PostgreSQL, and Express </p>
+<p>- &nbsp; Deployed using Render </p?
 
 
