@@ -7,6 +7,6 @@ Application for keeping track of tasks with progress bar to indicate percentage 
 
 <h3> Technologies Used:</h3>
 - &nbsp; React, JavaScript, PostgreSQL, and Express
-- Deployed using Render
+- &nbsp; Deployed using Render
 
 
